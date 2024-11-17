@@ -1,6 +1,7 @@
-Sorts your download folder into subfolders on linux
+# Sortd - Sort Your Downloads Folder into Subfolders
 
 Install:
-git clone https://github.com/FluffoCJ/sortd.git \
-cd sortd \
-makepkg -si \
+```bash
+git clone https://github.com/FluffoCJ/sortd.git
+cd sortd
+makepkg -si

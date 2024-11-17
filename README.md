@@ -5,3 +5,9 @@ Install:
 git clone https://github.com/FluffoCJ/sortd.git
 cd sortd
 makepkg -si
+```
+usage:
+```bash
+sortd
+```
+The command will not output anything unless there is an error

@@ -1,6 +1,6 @@
 # Sortd - Sort Your Downloads Folder into Subfolders
 
-Install:
+Arch Installation:
 ```bash
 git clone https://github.com/FluffoCJ/sortd.git
 cd sortd

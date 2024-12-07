@@ -1,4 +1,6 @@
-# Sortd - Sort Your Downloads Folder into Subfolders
+# Sortd
+
+This is mostly a project for myself but its here if you want it.
 
 Arch Installation:
 ```bash
